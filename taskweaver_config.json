@@ -1,0 +1,5 @@
+{
+    "llm.api_type": "google_genai",
+    "llm.google_genai.api_key": "AIzaSyAD4eR4PpgR8dqkz0eFYUyWHX2ukeNEkOs",
+    "llm.google_genai.model": "gemini-pro"
+    }
